@@ -1,6 +1,6 @@
 digraph Tree {
 node [shape=box] ;
-0 [label="X[1] <= -0.542\nentropy = 0.997\nsamples = 700\nvalue = [371, 329]"] ;
+0 [label="X[1] <= -0.602\nentropy = 0.997\nsamples = 700\nvalue = [371, 329]"] ;
 1 [label="entropy = 0.0\nsamples = 359\nvalue = [359, 0]"] ;
 0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
 2 [label="X[0] <= 2.663\nentropy = 0.22\nsamples = 341\nvalue = [12, 329]"] ;
